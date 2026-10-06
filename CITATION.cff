@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite this repository when referring to this source release. This is not a published-article citation."
+title: "KAN ECG Research Paper source code"
+type: software
+authors:
+  - family-names: Sukumar
+    given-names: Adil
+    affiliation: VIT Bhopal University
+  - family-names: Sisodia
+    given-names: Somya
+    affiliation: VIT Bhopal University
+repository-code: "https://github.com/adilsukumar/KAN-ECG-Research_Paper"
+url: "https://github.com/adilsukumar/KAN-ECG-Research_Paper"
+abstract: "Source for frozen ECG generalization and budget-constrained symbolic distillation of a custom spline KAN on twelve engineered features. Excludes the full fitted-model and participant-level evidence archive."
+keywords:
+  - electrocardiography
+  - Kolmogorov-Arnold networks
+  - symbolic distillation
+  - external validation
+  - reproducibility
